@@ -1,16 +1,16 @@
-<h1>Hi, I'm Jeremy! 
+# Hi, I'm Jeremy! 
 
-<h2> Certifications </h2>
-<b> CompTIA SecurityX ce (Formerly CASP+)  </b>  
-[CompTIA Security+ ce](./certifications/CompTIA-Security-Plus.pdf)
-<b> Google Cybersecurity Professional  </b>  
-<b> Qalys Vulnerability Management  </b>
+### Certifications
+- [CompTIA SecurityX ce](./certifications/CompTIA-SecurityX.pdf) (Formerly CASP+)  
+- [CompTIA Security+ ce](./certifications/CompTIA-Security-Plus.pdf)  
+- Google Cybersecurity Professional  
+- [Qalys Vulnerability Management](./certifications/Qualys-Vulnerability-Management.pdf)  
   
-<h2> Projects </h2>
+### Projects
 
-- <b> Nessus Configuration (Home Lab)
+- Nessus Configuration (Home Lab)
 
-- <b>Powershell</b>
+- Powershell
   - [Practicing Powershell](<add URL>)
 
 
