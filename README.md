@@ -16,6 +16,7 @@
 
 ### Connect with me:
 [Linkedin](https://linkedin.com/in/jeremy-drennan)
+Email: JDrennan0316@gmail.com
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
