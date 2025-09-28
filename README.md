@@ -1,7 +1,7 @@
 # Hi, I'm Jeremy! 
 
 ### Certifications
-- [CompTIA SecurityX ce](./certifications/CompTIA-SecurityX.pdf) (Formerly CASP+)  
+- [CompTIA SecurityX ce](./certifications/CompTIA-SecurityX.pdf)
 - [CompTIA Security+ ce](./certifications/CompTIA-Security-Plus.pdf)  
 - Google Cybersecurity Professional  
 - [Qalys Vulnerability Management](./certifications/Qualys-Vulnerability-Management.pdf)  
@@ -14,8 +14,8 @@
   - [Practicing Powershell](<add URL>)
 
 
-<h2> Connect with me:</h2>
-[linkedin]: (https://linkedin.com/in/jeremy-drennan)
+### Connect with me:
+[Linkedin](https://linkedin.com/in/jeremy-drennan)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
