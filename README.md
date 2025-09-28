@@ -1,5 +1,8 @@
 # Hi, I'm Jeremy! 
 
+## Resume  
+- [My Resume](Upload Resume to Github and link it here)
+
 ### Certifications
 - [CompTIA SecurityX ce](./certifications/CompTIA-SecurityX.pdf)
 - [CompTIA Security+ ce](./certifications/CompTIA-Security-Plus.pdf)  
