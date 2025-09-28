@@ -1,9 +1,10 @@
 <h1>Hi, I'm Jeremy! 
 
 <h2> Certifications </h2>
-- <b> CompTIA CASP + </b>
-- <b> CompTIA Security + </b>
-- <b> Google Cybersecurity Professional </b>
+<b> CompTIA SecurityX ce (Formerly CASP+)  </b>  
+[CompTIA Security+ ce](./certifications/CompTIA-Security-Plus.pdf)
+<b> Google Cybersecurity Professional  </b>  
+<b> Qalys Vulnerability Management  </b>
   
 <h2> Projects </h2>
 
