@@ -6,7 +6,7 @@
 ### Certifications
 - [CompTIA SecurityX ce](./certifications/CompTIA-SecurityX.pdf)
 - [CompTIA Security+ ce](./certifications/CompTIA-Security-Plus.pdf)  
-- Google Cybersecurity Professional  
+- [Google Cybersecurity Professional](./certifications/Google-Cybersecurity-Professional.pdf)  
 - [Qalys Vulnerability Management](./certifications/Qualys-Vulnerability-Management.pdf)  
   
 ### Projects
