@@ -1,6 +1,6 @@
 # Hi, I'm Jeremy! 
-I am currently working on completing a BS in Cybersecurity and Digital Forensics.  
-Additionally I am working on a plethora of projects and self learning ventures enhancing my understanding of various technologies.
+I am currently working on completing a BS in Cybersecurity with a focus in Digital Forensics.
+Additionally I am working on a plethora of projects and self learning ventures enhancing my understanding of various technologies.  
 Take a gander! Let me know if you would like to discuss any of this.
 
 ## Resume  
