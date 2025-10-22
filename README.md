@@ -1,4 +1,7 @@
 # Hi, I'm Jeremy! 
+I am currently working on completing a BS in Cybersecurity and Digital Forensics.  
+Additionally I am working on a plethora of projects and self learning ventures enhancing my understanding of various technologies.
+Take a gander! Let me know if you would like to discuss any of this.
 
 ## Resume  
 - [My Resume](Upload Resume to Github and link it here)
@@ -11,7 +14,7 @@
   
 ### Projects
 
-- Nessus Configuration (Home Lab)
+- [Vulnerability Management Program Scenario](<add URL>)
 
 - Powershell
   - [Practicing Powershell](<add URL>)
@@ -22,8 +25,6 @@
 
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
