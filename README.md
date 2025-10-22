@@ -12,14 +12,23 @@ Take a gander! Let me know if you would like to discuss any of this.
 - [Google Cybersecurity Professional](./certifications/Google-Cybersecurity-Professional.pdf)  
 - [Qalys Vulnerability Management](./certifications/Qualys-Vulnerability-Management.pdf)  
   
-### Projects
+### Projects **(Work in Progress)**
 
 - [Vulnerability Management Program Scenario](<add URL>)
 
-- Powershell
+- Coding Learning / Practice **(Work in Progress)**
   - [Practicing Powershell](<add URL>)
+  - [Practicing Python](<add URL>)
 
-
+#### Minor Projects / Practice
+- Tenable Practice Scenarios **(Work in Progress)**
+  - [Conducting Credentialed & Uncredentialed Vulnerability Scan - Windows](<Add Path>)
+  - [Conducting Credentialed & Uncredentialed Vulnerability Scan - Linux](<Add Path>)
+  - [Agent Based Vulnerability Scan - Windows](<Add Path>)
+  - [Agent Based Vulnerability Scan - Linux](<Add Path>)
+  - [Conduct a User Defined Scan to Audit DISA STIG Compliance - Windows](<Add Path>)  
+  - [Conducting a Network Discovery Scan](<Add Path>)
+  
 ### Connect with me:
 [Linkedin](https://linkedin.com/in/jeremy-drennan)  
 
