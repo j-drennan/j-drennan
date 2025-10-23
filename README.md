@@ -14,22 +14,11 @@ Take a gander! Let me know if you would like to discuss any of this.
   
 ### Projects **(Work in Progress)**
 
-- [90% Vulnerability Management Program Scenario](https://github.com/j-drennan/Portfolio/tree/main/Projects/vulnerability-management-program)
-- [0% Remediating STIG audit findings with Powershell](<Add URL>)
+- [99% Vulnerability Management Program Scenario](https://github.com/j-drennan/Portfolio/tree/main/Projects/vulnerability-management-program)
+- [20% Remediating STIG audit findings with Powershell](<Add URL>)
 
 - 
-- Coding Learning / Practice **(Work in Progress)**
-  - [33% Practicing Powershell](<add URL>)
-  - [10% Practicing Python](<add URL>)
 
-#### Minor Projects / Practice
-- Tenable Practice Scenarios **(Work in Progress)**
-  - [Conducting Credentialed & Uncredentialed Vulnerability Scan - Windows](<Add Path>)
-  - [Conducting Credentialed & Uncredentialed Vulnerability Scan - Linux](<Add Path>)
-  - [Agent Based Vulnerability Scan - Windows](<Add Path>)
-  - [Agent Based Vulnerability Scan - Linux](<Add Path>)
-  - [Conduct a User Defined Scan to Audit DISA STIG Compliance - Windows](<Add Path>)  
-  - [Conducting a Network Discovery Scan](<Add Path>)
   
 ### Connect with me:
 [Linkedin](https://linkedin.com/in/jeremy-drennan)  
