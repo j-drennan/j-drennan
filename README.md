@@ -14,11 +14,13 @@ Take a gander! Let me know if you would like to discuss any of this.
   
 ### Projects **(Work in Progress)**
 
-- [Vulnerability Management Program Scenario](https://github.com/j-drennan/Portfolio/tree/main/Projects/vulnerability-management-program)
+- [90% Vulnerability Management Program Scenario](https://github.com/j-drennan/Portfolio/tree/main/Projects/vulnerability-management-program)
+- [0% Remediating STIG audit findings with Powershell](<Add URL>)
 
+- 
 - Coding Learning / Practice **(Work in Progress)**
-  - [Practicing Powershell](<add URL>)
-  - [Practicing Python](<add URL>)
+  - [33% Practicing Powershell](<add URL>)
+  - [10% Practicing Python](<add URL>)
 
 #### Minor Projects / Practice
 - Tenable Practice Scenarios **(Work in Progress)**
