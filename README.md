@@ -14,7 +14,7 @@ Take a gander! Let me know if you would like to discuss any of this.
   
 ### Projects **(Work in Progress)**
 
-- [Vulnerability Management Program Scenario](<add URL>)
+- [Vulnerability Management Program Scenario](https://github.com/j-drennan/Portfolio/tree/main/Projects/vulnerability-management-program)
 
 - Coding Learning / Practice **(Work in Progress)**
   - [Practicing Powershell](<add URL>)
