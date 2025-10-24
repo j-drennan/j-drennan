@@ -4,7 +4,7 @@ Additionally I am working on a plethora of projects and self learning ventures e
 Take a gander! Let me know if you would like to discuss any of this.
 
 ## Resume  
-- [My Resume](Upload Resume to Github and link it here)
+- [My Resume](https://docs.google.com/document/d/1dGjNnxx8ISKOFhmCZlb6Zi5ILeifmGZzwVGRQ0HKN_I/edit?tab=t.0)
 
 ### Certifications
 - [CompTIA SecurityX ce](./certifications/CompTIA-SecurityX.pdf)
