@@ -12,12 +12,12 @@ Take a gander! Let me know if you would like to discuss any of this.
 - [Google Cybersecurity Professional](./certifications/Google-Cybersecurity-Professional.pdf)  
 - [Qalys Vulnerability Management](./certifications/Qualys-Vulnerability-Management.pdf)  
   
-### Projects **(Work in Progress)**
+### Projects
 
-- [99% Vulnerability Management Program Scenario](https://github.com/j-drennan/Portfolio/tree/main/Projects/vulnerability-management-program)
-- [20% Remediating STIG audit findings with Powershell](<Add URL>)
+- [Vulnerability Management Program Scenario](https://github.com/j-drennan/Portfolio/tree/main/Projects/vulnerability-management-program)
 
-- 
+**In progress**
+- [30% Remediating STIG audit findings with Powershell](<Add URL>)
 
   
 ### Connect with me:
