@@ -14,7 +14,7 @@ Take a gander! Let me know if you would like to discuss any of this.
   
 ### Projects
 
-- [Vulnerability Management Program Scenario](https://github.com/j-drennan/Portfolio/tree/main/Projects/vulnerability-management-program)
+- [Vulnerability Management Program Scenario](https://github.com/j-drennan/Portfolio/blob/main/Projects/vulnerability-management-program/README.md)
 
 **In progress**
 - [30% Remediating STIG audit findings with Powershell](<Add URL>)
