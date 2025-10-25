@@ -17,7 +17,7 @@ Take a gander! Let me know if you would like to discuss any of this.
 - [Vulnerability Management Program Scenario](https://github.com/j-drennan/Portfolio/blob/main/Projects/vulnerability-management-program/README.md)
 
 **In progress**
-- [30% Remediating STIG audit findings with Powershell](<Add URL>)
+- [30% Remediating STIG audit findings with Powershell](https://github.com/j-drennan/Portfolio/blob/main/Projects/10-Stig-Windows-2022/readme.md)
 
   
 ### Connect with me:
