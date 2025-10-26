@@ -15,9 +15,8 @@ Take a gander! Let me know if you would like to discuss any of this.
 ### Projects
 
 - [Vulnerability Management Program Scenario](https://github.com/j-drennan/Portfolio/blob/main/Projects/vulnerability-management-program/README.md)
+- [STIG Project - Windows Server 2022](https://www.notion.so/STIG-Implementation-on-Windows-Server-2022-2977a2ff9549808fa9c6ff0136818ffb)
 
-**In progress**
-- [30% Remediating STIG audit findings with Powershell](https://github.com/j-drennan/Portfolio/blob/main/Projects/10-Stig-Windows-2022/readme.md)
 
   
 ### Connect with me:
