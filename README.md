@@ -14,7 +14,7 @@ Take a look! I would love to talk about these projects.
   
 ### Projects
 
-- [Vulnerability Management Program Scenario](https://github.com/j-drennan/Portfolio/blob/main/Projects/vulnerability-management-program/README.md)
+- [Vulnerability Management Program Scenario](https://github.com/j-drennan/Vulnerability-Management-Project/blob/main/README.md)
 - [STIG Project - Windows Server 2022](https://www.notion.so/STIG-Implementation-on-Windows-Server-2022-2977a2ff9549808fa9c6ff0136818ffb)
 
 
